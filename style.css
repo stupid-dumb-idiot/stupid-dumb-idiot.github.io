@@ -6,6 +6,9 @@
   font-family: redaction; /* set name */
   src: url(/fonts/redaction-35-latin-400-normal.ttf) format(truetype)
 }
+.title {
+  font-family: redaction;
+}
 body {
   background-color: #191724;
   color: #cabdff;
