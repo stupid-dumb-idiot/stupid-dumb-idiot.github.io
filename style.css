@@ -19,6 +19,7 @@ body {
 .titlebar {
   background-color: #4f37ad;
   font-family: redaction;
+  padding: 4px;
   border-radius: 15px 15px 0px 0px; 
   height: 25px;
 }
