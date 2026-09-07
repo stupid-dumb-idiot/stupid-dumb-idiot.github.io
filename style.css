@@ -4,6 +4,14 @@
 }
 body {
   background-color: #06011a;
-  color: cabdff;
+  color: #cabdff;
   font-family: gsans;
 }
+.window {
+  width: 600px;
+  height: 400px;
+  corner-radius: 15px;
+  background-color: #cabdff;
+  color: #06011a;
+}
+  
