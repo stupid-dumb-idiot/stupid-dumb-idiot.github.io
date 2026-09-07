@@ -10,6 +10,7 @@ body {
   background-color: #191724;
   color: #cabdff;
   text-align: center;
+  justify-content: center;
   font-family: gsans;
 }
 .titlebar {
@@ -19,6 +20,7 @@ body {
 }
 .window {
   width: 300px;
+  text-align: center;
   height: 200px;
   border-radius: 15px;
   background-color: #382f59;
