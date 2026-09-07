@@ -17,4 +17,6 @@ body {
   background-color: #cabdff;
   color: #06011a;
 }
-  
+.content {
+  padding: 15px;
+}
