@@ -8,7 +8,8 @@ body {
   font-family: gsans;
 }
 .titlebar {
-  background-color: #3300ff
+  background-color: #3300ff;
+  height: 20px;
 }
 .window {
   width: 300px;
