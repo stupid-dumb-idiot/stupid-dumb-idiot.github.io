@@ -22,9 +22,9 @@ body {
   height: 25px;
 }
 .window {
-  width: 300px;
+  width: 400px;
   text-align: center;
-  height: 200px;
+  height: 300px;
   border-radius: 15px;
   background-color: #382f59;
   color: #cabdff;
