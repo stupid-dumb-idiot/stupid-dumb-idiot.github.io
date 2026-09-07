@@ -24,7 +24,7 @@ body {
 }
 .window {
   width: 400px;
-  text-align: center;
+  text-align: left;
   height: 300px;
    justify-content: center;
   border-radius: 15px;
