@@ -1,6 +1,10 @@
 @font-face {
   font-family: gsans; /* set name */
-  src: url(/fonts/googlesans.ttf) format(truetype)
+  src: url(/fonts/GeistPixel-Regular-VariableFont_ELSH.ttf) format(truetype)
+}
+@font-face {
+  font-family: redaction; /* set name */
+  src: url(/fonts/redaction-35-latin-400-normal.ttf) format(truetype)
 }
 body {
   background-color: #191724;
