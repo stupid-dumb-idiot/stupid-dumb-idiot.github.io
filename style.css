@@ -15,11 +15,6 @@ body {
   text-align: center;
   justify-content: center;
   font-family: gsans;
-   background-image: url("OIP.webp");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
 }
 .titlebar {
   background-color: #4f37ad;
