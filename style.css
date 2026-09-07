@@ -1,3 +1,7 @@
+@font-face {
+  font-family: gsans; /* set name */
+  src: url(/fonts/gsans.ttf) format(truetype)
+}
 body {
   background-color: #06011a;
   color: cabdff;
