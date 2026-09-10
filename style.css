@@ -39,3 +39,10 @@ padding: 1px;
   border-radius: 26px;
   width: 300px
 }
+.button {
+  border-radius: 26px;
+  width: 75px;
+  background-color: #3300ff;
+  height: 25px
+}
+}
