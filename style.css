@@ -21,7 +21,7 @@ body {
   font-family: redaction;
   align-items: center;
   display: flex;
-padding: 1px;
+padding-left: 4px;
   border-radius: 15px 15px 0px 0px; 
   height: 25px;
 }
