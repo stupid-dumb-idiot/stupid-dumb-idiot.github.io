@@ -60,3 +60,11 @@ padding-left: 10px;
   text-align: left;
   padding: 10px;
 }
+.results {
+  background-color: #fff;
+  stroke: #0c0528;
+  width: 400px;
+  border-radius: 26px;
+  text-align: left;
+  padding: 10px;
+}
