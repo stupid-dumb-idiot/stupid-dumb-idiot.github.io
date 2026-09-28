@@ -51,7 +51,8 @@ padding-left: 10px;
   padding: 10px;
   color: #efedfc;
   background-color: #674fc6;
-  height: 100px
+  height: 100px;
+  text-decoration: none;
 }
 .codeblock {
   background-color: #fff;
