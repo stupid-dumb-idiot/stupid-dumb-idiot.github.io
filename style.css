@@ -48,8 +48,9 @@ padding-left: 10px;
 .button {
   border-radius: 26px;
   width: 150px;
-  background-color: #3300ff;
-  height: 50px
+  color: #efedfc;
+  background-color: #674fc6;
+  height: 100px
 }
 .codeblock {
   background-color: #fff;
