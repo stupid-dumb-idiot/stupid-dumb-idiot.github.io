@@ -47,4 +47,7 @@ padding-left: 10px;
   background-color: #3300ff;
   height: 50px
 }
+.codeblock {
+  background-color: #fff;
+  stroke: #0c0528;
 }
