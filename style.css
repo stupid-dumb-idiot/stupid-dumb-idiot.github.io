@@ -6,6 +6,10 @@
   font-family: redaction; /* set name */
   src: url(/fonts/redaction-35-latin-400-normal.ttf) format(truetype)
 }
+@font-face {
+  font-family: mono; /* set name */
+  src: url(/fonts/mono.ttf) format(truetype)
+}
 .title {
   font-family: redaction;
 }
@@ -50,4 +54,5 @@ padding-left: 10px;
 .codeblock {
   background-color: #fff;
   stroke: #0c0528;
+  font-family: mono;
 }
