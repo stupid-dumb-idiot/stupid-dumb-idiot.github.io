@@ -48,6 +48,7 @@ padding-left: 10px;
 .button {
   border-radius: 26px;
   width: 150px;
+  padding: 10px;
   color: #efedfc;
   background-color: #674fc6;
   height: 100px
