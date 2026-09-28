@@ -5,9 +5,12 @@
 <body>
   <h1 class="title">Learn HTML</h1>
   <p>This is a guide on how to learn HTML</p>
+    <div id="includeHtml" style="border: 2px solid #ccc; padding: 15px; margin-top: 10px;">
+      Loading Editor...
+   </div>
    <script>
       $(document).ready(function() {
-         $("#includeHtml").load("/sandbox.html");
+         $("#includeHtml").load("content.html");
       });
    </script>
 </body>
