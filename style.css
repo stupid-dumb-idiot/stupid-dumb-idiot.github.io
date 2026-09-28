@@ -56,4 +56,6 @@ padding-left: 10px;
   stroke: #0c0528;
   font-family: mono;
   width: 400px;
+  border-radius: 26px;
+  text-align: left; 
 }
