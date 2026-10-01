@@ -58,6 +58,7 @@ padding-left: 10px;
   background-color: #fff;
   stroke: #0c0528;
   font-family: mono;
+  width: fit-content;
   border-radius: 15px;
   text-align: left;
   padding: 10px;
@@ -65,6 +66,7 @@ padding-left: 10px;
 .results {
   background-color: #fff;
   stroke: #0c0528;
+  width: fit-content;
   border-radius: 15px;
   text-align: left;
   padding: 10px;
