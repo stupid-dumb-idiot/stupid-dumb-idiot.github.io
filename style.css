@@ -55,7 +55,8 @@ padding-left: 10px;
   text-decoration: none;
 }
 .codeblock {
-  background-color: #fff;
+  background-color: #efedfc;
+  color: #050211;
   stroke: #0c0528;
   font-family: mono;
   width: fit-content;
@@ -64,7 +65,8 @@ padding-left: 10px;
   padding: 10px;
 }
 .results {
-  background-color: #fff;
+  background-color: #efedfc;
+  color: #050211;
   stroke: #0c0528;
   width: fit-content;
   border-radius: 15px;
