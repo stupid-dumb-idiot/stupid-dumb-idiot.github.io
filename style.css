@@ -67,11 +67,12 @@ padding-left: 10px;
   text-align: left;
   padding: 10px;
 }
-.results {
-  background-color: #efedfc;
-  color: #050211;
+.codeblock {
+  background-color: #1d1c23;
+  color: #ff6c6b;
   stroke: #0c0528;
   width: fit-content;
+  min-width: 400px;
   border-radius: 15px;
   text-align: left;
   padding: 10px;
