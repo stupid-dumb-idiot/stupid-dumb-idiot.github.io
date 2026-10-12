@@ -21,7 +21,7 @@ body {
   font-family: gsans;
 }
 .titlebar {
-  background-color: #4f37ad;
+  background-color: #3d3b4f;
   font-family: redaction;
   align-items: center;
   display: flex;
@@ -36,8 +36,8 @@ padding-left: 10px;
   height: 300px;
    justify-content: center;
   border-radius: 15px;
-  background-color: #efedfc;
-  color: #cabdff;
+  background-color: #1d1c23;
+  color: #ff6c6b;
 }
 .content {
   padding: 15px;
@@ -56,7 +56,7 @@ padding-left: 10px;
   text-decoration: none;
 }
 .codeblock {
-  background-color: #efedfc;
+  background-color: #1d1c23;
   color: #050211;
   stroke: #0c0528;
   font-family: mono;
