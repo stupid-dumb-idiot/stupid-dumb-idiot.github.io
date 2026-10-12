@@ -22,6 +22,7 @@ body {
 }
 .titlebar {
   background-color: #3d3b4f;
+  color: #cabdff;
   font-family: redaction;
   align-items: center;
   display: flex;
@@ -57,7 +58,7 @@ padding-left: 10px;
 }
 .codeblock {
   background-color: #1d1c23;
-  color: #050211;
+  color: #ff6c6b;
   stroke: #0c0528;
   font-family: mono;
   width: fit-content;
