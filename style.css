@@ -58,7 +58,7 @@ padding-left: 10px;
 }
 .codeblock {
   background-color: #1d1c23;
-  color: #ff6c6b;
+  color: #cabdff;
   stroke: #0c0528;
   font-family: mono;
   width: fit-content;
@@ -67,9 +67,9 @@ padding-left: 10px;
   text-align: left;
   padding: 10px;
 }
-.codeblock {
+.resbox {
   background-color: #1d1c23;
-  color: #ff6c6b;
+  color: #cabdff;
   stroke: #0c0528;
   width: fit-content;
   min-width: 400px;
